@@ -1,10 +1,10 @@
 // C program that implements a producer-consumer system with two processes using Semaphores.
 
-/*
- * sem-producer-consumer.c  - demonstrates a basic producer-consumer
- *                            implementation.
- */
-#include <stdio.h>	 /* standard I/O routines.              */
+
+// sem-producer-consumer.c  - demonstrates a basic producer-consumer
+//                            implementation.
+//
+#include <stdio.h>	 //standard I/O routines.              */
 #include <stdlib.h>      /* rand() and srand() functions        */
 #include <unistd.h>	 /* fork(), etc.                        */
 #include <time.h>	 /* nanosleep(), etc.                   */
