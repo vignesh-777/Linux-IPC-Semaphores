@@ -111,6 +111,8 @@ if(NUM_LOOPS>=10)    {
 $ ./sem.o 
 
 ![](./out1.png)
+
+
 $ ipcs
 ![](./out2.png)
 
